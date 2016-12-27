@@ -11,6 +11,7 @@
 * [https://www.learnpython.org](https://www.learnpython.org) - дуже простий туторіал з можливістю писати й запускати код онлайн
 * [https://www.codecademy.com/learn/python](https://www.codecademy.com/learn/python)
 * [Офіційний туторіал](https://docs.python.org/3/tutorial/index.html)
+* [Розробка простого блогу з подій DjangoGirls](https://tutorial.djangogirls.org/uk/)
 * [Learning Python — The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/) повна інструкція з ресурсами для початківців.
 
 ### Онлайн курси
