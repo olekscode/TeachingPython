@@ -18,3 +18,5 @@
 * [Prometheus: Programming 101](http://courses.prometheus.org.ua/courses/KPI/Programming101/2015_T1/about) - курс з програмування мовою Python, доступний будь-кому
 * [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python) - від University of Michigan. Один з найпопулярніших курсів по Python. Його вже пройшли  657,068 людей. Курс навчає основам мови програмування Python.
 * [Програмування мовою Python (3.x). Початковий курс](https://sites.google.com/site/pythonukr/) - український ресурс
+
+* [Programming Foundations with Python](https://github.com/lavriv92/TeachingPython) - python курс на Udacity
