@@ -16,7 +16,10 @@ This is the list of resources for high school students who learn Python as their
 * [Розробка простого блогу з подій DjangoGirls](https://tutorial.djangogirls.org/uk/) - Django Girls UA. A simple instruction on how to create a blog from scrach.
 * [Learning Python — The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/) - complete instructions and a collection of resources for beginners
 
+
 ### Online Courses
-* [Prometheus: Programming 101](http://courses.prometheus.org.ua/courses/KPI/Programming101/2015_T1/about) - Ukrainian MOOC on Python Programming
-* [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python) - One of the most popular Python courses from the University of Michigan.
-* [Програмування мовою Python (3.x). Початковий курс](https://sites.google.com/site/pythonukr/) - Ukrainian resource for those who starts learning Python
+* [Prometheus: Programming 101](http://courses.prometheus.org.ua/courses/KPI/Programming101/2015_T1/about) - курс з програмування мовою Python, доступний будь-кому
+* [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python) - від University of Michigan. Один з найпопулярніших курсів по Python. Його вже пройшли  657,068 людей. Курс навчає основам мови програмування Python.
+* [Програмування мовою Python (3.x). Початковий курс](https://sites.google.com/site/pythonukr/) - український ресурс
+
+* [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) - python курс на Udacity
