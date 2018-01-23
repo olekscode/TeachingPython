@@ -1,4 +1,3 @@
-<img align="right" src="https://www.python.org/static/opengraph-icon-200x200.png" \>
 # Useful Resources
 This is the list of resources for high school students who learn Python as their first programming language. If you want to add some resources or rearrange them based on importance, please, edit the document and make a pull request. In case you think that some resources shouldn't be on the list, please create an issue and explain why do you want them removed.
 
